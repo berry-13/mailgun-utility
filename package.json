@@ -14,8 +14,16 @@
     "email",
     "validation"
   ],
-  "author": "Your Name",
+  "author": "Marco Beretta",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berry-13/mailgun-utility.git"
+  },
+  "bugs": {
+    "url": "https://github.com/berry-13/mailgun-utility/issues"
+  },
+  "homepage": "https://github.com/berry-13/mailgun-utility#readme",
   "dependencies": {
     "form-data": "^4.0.0",
     "node-fetch": "^3.3.2"
