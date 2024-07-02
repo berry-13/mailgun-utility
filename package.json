@@ -1,0 +1,28 @@
+{
+  "name": "mailgun-utility",
+  "version": "1.0.0",
+  "description": "A utility for interacting with the Mailgun API",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "mailgun",
+    "email",
+    "validation"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@types/node-fetch": "^2.6.11",
+    "typescript": "^5.5.3"
+  }
+}
