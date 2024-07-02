@@ -1,6 +1,6 @@
 # Mailgun Utility
 
-A simple utility for interacting with the Mailgun API.
+A simple utility for interacting with the Mailgun API
 
 ## Installation
 
