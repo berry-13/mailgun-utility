@@ -1,4 +1,17 @@
-# Mailgun Utility
+<p align="center">
+  <a>
+    <img src="https://github.com/berry-13/mailgun-utility/assets/81851188/2a6b345b-9657-488c-8017-c6a089bda7de" height="256">
+  </a>
+  <h1 align="center">
+    <a >Mailgun Utility</a>
+  </h1>
+</p>
+
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/mailgun-utility"><img src="https://img.shields.io/npm/v/mailgun-utility.svg" alt="npm version"></a>
+  <a href="https://github.com/berry-13/mailgun-utility/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-informational" alt="License"></a>
+</p>
 
 A simple utility for interacting with the Mailgun API
 
